@@ -7,7 +7,7 @@ Print the number of figures of each type.
 
 Program:
 -------------
-in ```filename``` variable must be written full path to image.
+In ```filename``` variable must be written full path to image.
 
 I use the OpenCV library for processing image, finding contours and approximate it.
 
